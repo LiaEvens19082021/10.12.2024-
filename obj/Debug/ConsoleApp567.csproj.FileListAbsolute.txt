@@ -1,0 +1,7 @@
+D:\Гук\ConsoleApp567\bin\Debug\ConsoleApp567.exe.config
+D:\Гук\ConsoleApp567\bin\Debug\ConsoleApp567.exe
+D:\Гук\ConsoleApp567\bin\Debug\ConsoleApp567.pdb
+D:\Гук\ConsoleApp567\obj\Debug\ConsoleApp567.csproj.AssemblyReference.cache
+D:\Гук\ConsoleApp567\obj\Debug\ConsoleApp567.csproj.CoreCompileInputs.cache
+D:\Гук\ConsoleApp567\obj\Debug\ConsoleApp567.exe
+D:\Гук\ConsoleApp567\obj\Debug\ConsoleApp567.pdb
